@@ -16,3 +16,7 @@ h2 {
 .card {
     opacity: .8;
 }
+
+#add-train-btn {
+    background-color: grey; 
+}
