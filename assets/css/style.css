@@ -1,0 +1,18 @@
+body {
+    background-image: url("../images/pennstation1.png");
+}
+h2 {
+    text-align: center;
+}
+#schedule-section {
+    background-color: rgb(255, 255, 255, .3);
+}
+
+#stripe {
+    background-color: black;
+    color: white;
+}
+
+.card {
+    opacity: .8;
+}
